@@ -1,6 +1,6 @@
 # Arquitetura de Automacao Residencial
 
-   A ideia de casas inteligentes está se tornando mais acessível com o uso de novas tecnologias.
+1. A ideia de casas inteligentes está se tornando mais acessível com o uso de novas tecnologias.
 Controlar os aparelhos de casa só estando conectado em seu telefone móvel é
 futurista e pode mudar o jeito que as pessoas interagem com as suas residências. Automação
 Residencial usando Internet das Coisas é promissor e um jeito efetivo de atingir
@@ -16,7 +16,7 @@ Integral Derivativo), realizando envios e processamentos de comandos e testando 
 saída, utilizando-se de protocolos adicionais de segurança. O resultado obtido foi uma
 conexão bem sucedida entre aplicativo e placa controladora, entregando informações
 íntegras e conﬁáveis, tendo assim uma arquitetura funcional e eﬁciente.
-    Neste trabalho objetiva-se desenvolver uma arquitetura de automação residencial
+2. Neste trabalho objetiva-se desenvolver uma arquitetura de automação residencial
 utilizando IoT para o controle de comandos remotos em tempo real. Os comandos
 serão executados por meio de um aplicativo Android, em seguida serão transmitidos
 via conexão com a internet para o sistema e ﬁnalmente serão executados pela placa controladora.
