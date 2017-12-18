@@ -1,6 +1,6 @@
 # Arquitetura de Automacao Residencial
 
-1. A ideia de casas inteligentes está se tornando mais acessível com o uso de novas tecnologias.
+A ideia de casas inteligentes está se tornando mais acessível com o uso de novas tecnologias.
 Controlar os aparelhos de casa só estando conectado em seu telefone móvel é
 futurista e pode mudar o jeito que as pessoas interagem com as suas residências. Automação
 Residencial usando Internet das Coisas é promissor e um jeito efetivo de atingir
@@ -16,7 +16,9 @@ Integral Derivativo), realizando envios e processamentos de comandos e testando 
 saída, utilizando-se de protocolos adicionais de segurança. O resultado obtido foi uma
 conexão bem sucedida entre aplicativo e placa controladora, entregando informações
 íntegras e conﬁáveis, tendo assim uma arquitetura funcional e eﬁciente.
-2. Neste trabalho objetiva-se desenvolver uma arquitetura de automação residencial
+
+
+Neste trabalho objetiva-se desenvolver uma arquitetura de automação residencial
 utilizando IoT para o controle de comandos remotos em tempo real. Os comandos
 serão executados por meio de um aplicativo Android, em seguida serão transmitidos
 via conexão com a internet para o sistema e ﬁnalmente serão executados pela placa controladora.
@@ -28,9 +30,9 @@ controle do usuário. O projeto desta arquitetura será testado utilizando um si
 de controle PID, para que sejam testados o envio e recebimento de mensagem na
 arquitetura como um todo.
 Entre os objetivos especíﬁcos podemos citar:
-Desenvolver um aplicativo Android para realizar interface com o cliente e o
+1. Desenvolver um aplicativo Android para realizar interface com o cliente e o
 processo de controle de uma tarefa.
- Processar os dados recebidos pela comunicação serial.
- Salvar e consultar os dados em um banco de dados.
- Executar os comandos de controle estabelecidos pelo cliente no aplicativo.
- Garantir tempo real do controlador.
+2. Processar os dados recebidos pela comunicação serial.
+3. Salvar e consultar os dados em um banco de dados.
+4. Executar os comandos de controle estabelecidos pelo cliente no aplicativo.
+5. Garantir tempo real do controlador.
